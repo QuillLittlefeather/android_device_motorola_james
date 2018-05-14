@@ -1,0 +1,4 @@
+# system.prop for james
+
+# Display
+ro.sf.lcd_density=320
